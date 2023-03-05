@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [C Programming Language](github/heaven1925)
 - 🌱 I’m currently learning **Pyhton, ADAS, AUTOSAR and Embedded Linux Yocto**
 - 👨‍💻 All of my projects are available at [github/heaven1925](github/heaven1925)
-- 📝 I regularly write articles on [linkedin.com/atakanertekin](linkedin.com/atakanertekin)
+- 📝 I regularly write articles on my linked-in and medium profile.
 - 📫 How to reach me **atakanertekinn@gmail.com**
 
 ### Blogs posts
