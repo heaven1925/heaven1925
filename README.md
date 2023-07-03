@@ -2,8 +2,8 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
 
 
-- 🔭 I’m currently working on [C Programming Language](github/heaven1925)
-- 🌱 I’m currently learning **Pyhton, ADAS, AUTOSAR and Embedded Linux Yocto**
+- 🔭 I’m currently working on [C Programming Language on AUTOSAR ](github/heaven1925)
+- 🌱 I’m currently learning **Pyhton and Embedded Linux Yocto**
 - 👨‍💻 All of my projects are available at [github/heaven1925](github/heaven1925)
 - 📝 I regularly write articles on my linked-in and medium profile.
 - 📫 How to reach me **atakanertekinn@gmail.com**
