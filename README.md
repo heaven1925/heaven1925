@@ -1,7 +1,7 @@
 <h3 align="center">An Embedded Software Engineer who interested in RTOS, StateMachine and Low-level driver implemantation.</h3>
 
-- 🔭 I’m currently working on [C Programming Language on AUTOSAR ](github/heaven1925)
-- 🌱 I’m currently learning **Java Programming with Design Patterns**
+- 🔭 I’m currently working on [Safety Critical Software Development ](github/heaven1925)
+- 🌱 I’m currently learning **Safety Software Development Standarts and Applications**
 - 👨‍💻 All of my projects are available at [github/heaven1925](github/heaven1925)
 - 📝 I regularly write articles on my linked-in and medium profile.
 - 📫 How to reach me **atakanertekinn@gmail.com**
